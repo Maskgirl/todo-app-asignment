@@ -1,0 +1,5 @@
+todoproject/todo/__pycache__
+todoproject/todo/migrations
+todoproject/todoproject/__pycache__
+venv
+todoproject/db.sqlite3
